@@ -1,0 +1,8 @@
+[project]
+name = "agent-learning-project"
+version = "0.1.0"
+dependencies = [
+  "langchain",
+  "langchain-openai",
+  "python-dotenv",
+]
